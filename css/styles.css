@@ -10087,6 +10087,10 @@ p.lead {
   font-size: 3rem;
 }
 
+.dev-icons li:hover{
+  color: #000000;
+}
+
 section.resume-section {
   display: flex;
   align-items: center;
