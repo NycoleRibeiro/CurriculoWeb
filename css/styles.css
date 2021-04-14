@@ -159,13 +159,13 @@ sup {
 }
 
 a {
-  color:#b38402;
+  color:#ff8a46;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #c9a400;
-  text-decoration: underline;
+  color: #b83e0d;
+  text-decoration: overline underline;
 }
 
 a:not([href]):not([class]) {
@@ -10080,7 +10080,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color:#ffc108;
+  background-color:#ff672b;
 }
 
 .dev-icons {
